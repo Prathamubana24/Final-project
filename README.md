@@ -3,5 +3,7 @@ A simple ML and DL based website which recommends the diseases caught by your cr
 # Data Source
 https://www.kaggle.com/vipoooool/new-plant-diseases-dataset
 # How to Use
-Disease Detection System 
-==>Upload an image of leaf of your plant. The algorithm will tell the crop type and whether it is diseased or healthy. If it is diseased, it will tell you the cause of the disease and suggest you how to prevent/cure the disease accordingly. Note that, for now it only supports following crops
+1. Homepage ==> Serve as the entry point for the application, providing an overview and guiding users to key functionalities.User visits the homepage.User reads about the application and its features. 
+2. Image Upload Section ==> Allow users to upload images of crops for disease diagnosis.User clicks the upload button or drags and drops an image.The image is previewed, and the user confirms the upload. User clicks the predict button to send the image for analysis.
+3. Disease Diagnosis and Result Display ==> Provide users with the diagnosis results of the uploaded crop images.After submitting an image, the system analyzes the image.The result is displayed. 
+
