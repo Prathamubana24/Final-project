@@ -1,1 +1,1 @@
-# Final-project
+# Plant Disease Detection
