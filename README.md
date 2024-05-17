@@ -4,7 +4,9 @@ A simple ML and DL based website which recommends the diseases caught by your cr
 https://www.kaggle.com/vipoooool/new-plant-diseases-dataset
 Kraggle Documents: This datasheets have around 87K rgb pictures for healthy and diseased crop leafs that split into 38 diverse categories. 
 # How to Use
-1. Homepage ==> Serve as the entry point for the application, providing an overview and guiding users to key functionalities.User visits the homepage.User reads about the application and its features. 
-2. Image Upload Section ==> Allow users to upload images of crops for disease diagnosis.User clicks the upload button or drags and drops an image.The image is previewed, and the user confirms the upload. User clicks the predict button to send the image for analysis.
-3. Disease Diagnosis and Result Display ==> Provide users with the diagnosis results of the uploaded crop images.After submitting an image, the system analyzes the image.The result is displayed. 
+Homepage ==> Serving as an entry point for application, provide an overview and guide users to key functionalities. User visit the homepage. User reading about application and its features.
+
+Image Upload Section ==> Allowing users to upload images of cops for disease diagnoses. User clicks upload button or drags and needle drops an image. The image preview, and user confirmed upload. User clicks predicts button to send the image for analyses.
+
+Disease Diagnoses and Result Display ==> Providing users with diagnosis results of uploaded crop images. After submitting an image, the system analysis the image. Result displaying.
 
